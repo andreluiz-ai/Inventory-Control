@@ -49,10 +49,6 @@ Também dá para baixar e abrir o arquivo direto no navegador, sem instalar nada
 
 Os dados ficam salvos no próprio navegador (`localStorage`). A cena 3D carrega o Three.js pela internet, então precisa de conexão para aparecer.
 
-## Apresentação
-
-O roteiro de quem apresenta o quê, a demonstração passo a passo, os testes e as perguntas prováveis estão em [APRESENTACAO.md](APRESENTACAO.md).
-
 ## Relatório
 
 A pasta `relatorio/` tem o relatório do trabalho em PDF e as imagens usadas nele.
